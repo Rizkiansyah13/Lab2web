@@ -142,10 +142,16 @@ Kedua deklarasi tersebut akan tampil, namun selector ID yang akan tampil jika de
 ```
 4.Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut 
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? 
-``` dua-duanya , karena masing" selector terdapat declarasi Css ```
+``` 
+dua-duanya , karena masing" selector terdapat declarasi Css
+
+```
 Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 
-``` yaitu tag yg menunjukan element paraghrap ```
+``` 
+yaitu tag yg menunjukan element paraghrap 
+
+```
 contoh nya 
 
 
