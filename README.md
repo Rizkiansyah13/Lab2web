@@ -149,7 +149,7 @@ dua-duanya , karena masing" selector terdapat declarasi Css
 Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 
 ``` 
-yaitu tag yg menunjukan element paraghrap 
+Deklarasi yang akan di tampilkan adalah paragraf ke 1 karena perintah nya text-paragraf-1
 
 ```
 contoh nya 
